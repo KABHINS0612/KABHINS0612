@@ -59,48 +59,34 @@
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabhin0612&theme=github-dark&hide_border=true&bg_color=0B1120&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=1E3A8A&radius=8" width="85%" />
 </div>
-# 📧 Contact Me
+<div align="center">
+  <h1 style="font-size: 3rem; font-weight: 900; background: linear-gradient(135deg, #38BDF8, #1E3A8A); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 30px;">
+    📧 CONTACT ME
+  </h1>
+</div>
 
 <div align="center">
-  
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
   
 <a href="mailto:kabhins0612@gmail.com">
-  <img src="https://img.shields.io/badge/Email-kabhins0612%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=25&labelColor=0B1120&color=D14836" />
+  <img src="https://img.shields.io/badge/📧%20EMAIL-kabhins0612%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=35&labelColor=0B1120&color=D14836&label=📧" />
 </a>
-
+<br><br>
 <a href="https://linkedin.com/in/kabhin-s-4545b8339">
-  <img src="https://img.shields.io/badge/LinkedIn-Kabhin%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=25&labelColor=0B1120&color=0077B5" />
+  <img src="https://img.shields.io/badge/🔗%20LINKEDIN-Kabhin%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=35&labelColor=0B1120&color=0077B5" />
 </a>
-
+<br><br>
 <a href="https://github.com/Kabhin0612">
-  <img src="https://img.shields.io/badge/GitHub-@Kabhin0612-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=25&labelColor=0B1120&color=181717" />
+  <img src="https://img.shields.io/badge/🐙%20GITHUB-@Kabhin0612-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=35&labelColor=0B1120&color=181717" />
 </a>
-
+<br><br>
 <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-kabhins.dev-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=25&labelColor=0B1120&color=38BDF8" />
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-kabhins.dev-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=35&labelColor=0B1120&color=38BDF8" />
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://img.shields.io/badge/📍_Location-India,_Tamil_Nadu-38BDF8?style=flat-square" />
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://img.shields.io/badge/💼_Open_To-Full_Stack_Roles-22C55E?style=flat-square" />
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://img.shields.io/badge/⏰_Response-Within_24_Hours-38BDF8?style=flat-square" />
-      </td>
-    </tr>
-  </table>
-</div>
+| 📍 Location | 💼 Open To | ⏰ Response |
+|-------------|------------|-------------|
+| India, Tamil Nadu | Full Stack Roles | Within 24 Hours |
 
 </div>
-
----
