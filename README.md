@@ -48,10 +48,8 @@
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="32" height="32"></picture> GitHub Status
 
 <div align="center">
-  
-| Stats | Streak | Languages |
-|-------|--------|-----------|
-| <img src="https://github-readme-stats.vercel.app/api?username=Kabhin0612&show_icons=true&theme=dark&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github&include_all_commits=true&count_private=true" width="320" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kabhin0612&theme=dark&hide_border=true&background=0B1120&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&sideNums=38BDF8&currStreakNum=38BDF8" width="320" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabhin0612&layout=compact&theme=dark&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=E2E8F0" width="320" /> |
+
+<img src="https://github-readme-stats.vercel.app/api?username=kaarunyaAS&show_icons=true&theme=dark&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github&include_all_commits=true&count_private=true" width="420" />
 
 </div>
 
