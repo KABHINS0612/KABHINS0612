@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
@@ -31,7 +31,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <br>
@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Status
+## GitHub Status
 
 <div align="center">
   
@@ -58,7 +58,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabhin0612&theme=github-dark&hide_border=true&bg_color=0B1120&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=1E3A8A&radius=8" width="85%" />
 </div>
 
-## 📧 Contact Me
+## Contact Me
 
 <div align="center">
   
