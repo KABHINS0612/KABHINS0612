@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&duration=4000&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&lines=Kabhin+S;Java+Full+Stack+Developer;Building+the+Future+One+Line+at+a+Time;ECE+Student+%7C+Backend+Enthusiast;3%2B+Production+Projects" alt="Main Title" />
-</div>
-
 <!-- Top Animated Banner - Particle Grid Effect -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=KABHIN%20S&fontAlign=50&fontAlignY=45&color=0:0B1120,50:1E3A8A,100:38BDF8&fontColor=ffffff&animation=fadeIn&fontSize=45&desc=Full%20Stack%20Developer%20%7C%20Backend%20Architect&descAlign=50&descAlignY=65&descSize=18" />
@@ -115,40 +111,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks%20for%20Visiting!&fontAlign=50&fontAlignY=55&color=0:0B1120,50:1E3A8A,100:38BDF8&fontColor=ffffff&animation=twinkling&fontSize=32&desc=Let's%20Build%20Something%20Amazing&descAlign=50&descAlignY=75&descSize=16" />
   
-  <!-- Animated Matrix/Cyber Grid -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=100&color=38BDF8&center=true&vCenter=true&width=600&lines=%3E_+System+Online;%3E_+Ready+to+Collaborate;%3E_+Open+Source+Enthusiast;%3E_+Code.+Build.+Deploy.+Repeat.;%3E_+Keep+Learning+%F0%9F%9A%80" alt="Footer Typing" />
-</div>
-
-<!-- Custom Animation Styles -->
-<style>
-  @keyframes glow {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.7; }
-  }
-  
-  @keyframes slideIn {
-    from { transform: translateY(-20px); opacity: 0; }
-    to { transform: translateY(0); opacity: 1; }
-  }
-  
-  @keyframes pulse {
-    0%, 100% { transform: scale(1); }
-    50% { transform: scale(1.02); }
-  }
-  
-  img[alt="Developer Animation"] {
-    animation: glow 3s ease-in-out infinite;
-  }
-  
-  table {
-    animation: slideIn 0.5s ease-out;
-  }
-  
-  img[src*="github-readme-stats"] {
-    transition: transform 0.3s ease;
-  }
-  
-  img[src*="github-readme-stats"]:hover {
-    transform: translateY(-5px);
-  }
-</style>
