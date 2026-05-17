@@ -51,10 +51,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kabhin0612&show_icons=true&theme=dark&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github&include_all_commits=true&count_private=true" width="420" />
+<img 
+src="https://github-readme-stats.vercel.app/api?username=Kabhin0612&show_icons=true&theme=dark&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github&include_all_commits=true&count_private=true" 
+width="420"
+alt="My Status" 
+/>
 
 </div>
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabhin0612&theme=github-dark&hide_border=true&bg_color=0B1120&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=1E3A8A&radius=8" width="85%" />
