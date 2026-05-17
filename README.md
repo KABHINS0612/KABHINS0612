@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaarunyaAS&show_icons=true&theme=dark&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github&include_all_commits=true&count_private=true" width="420" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github&include_all_commits=true&count_private=true" width="420" />
 
 </div>
 
