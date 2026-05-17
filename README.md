@@ -106,8 +106,3 @@
 </div>
 
 ---
-
-<!-- Bottom Animated Banner - Matrix Code Rain Effect -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks%20for%20Visiting!&fontAlign=50&fontAlignY=55&color=0:0B1120,50:1E3A8A,100:38BDF8&fontColor=ffffff&animation=twinkling&fontSize=32&desc=Let's%20Build%20Something%20Amazing&descAlign=50&descAlignY=75&descSize=16" />
-  
