@@ -56,17 +56,16 @@
 ## 📊 GitHub Status
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kabhin0612&show_icons=true&theme=dark&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&include_all_commits=true&count_private=true" width="450" />
   
-| Stats | Streak | Languages |
-|-------|--------|-----------|
-| <img src="https://github-readme-stats.vercel.app/api?username=Kabhin0612&show_icons=true&theme=dark&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&hide=contribs,prs,issues&show=reviews,discussions_started,discussions_answered&rank_icon=default&include_all_commits=true&count_private=true" width="320" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kabhin0612&theme=dark&hide_border=true&background=0B1120&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&sideNums=38BDF8&currStreakNum=38BDF8" width="320" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabhin0612&layout=compact&theme=dark&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=E2E8F0" width="320" /> |
-
-</div>
-
-<div align="center">
+  <br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kabhin0612&theme=dark&hide_border=true&background=0B1120&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="450" />
+  
+  <br><br>
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabhin0612&theme=github-dark&hide_border=true&bg_color=0B1120&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=1E3A8A&radius=8" width="85%" />
 </div>
-
 # 📧 Contact Me
 
 <div align="center">
