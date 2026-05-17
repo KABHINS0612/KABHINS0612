@@ -50,9 +50,6 @@
 ## 📊 GitHub Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kabhin0612&show_icons=true&theme=dark&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&include_all_commits=true&count_private=true" width="450" />
-  
-  <br><br>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kabhin0612&theme=dark&hide_border=true&background=0B1120&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="450" />
   
@@ -61,8 +58,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabhin0612&theme=github-dark&hide_border=true&bg_color=0B1120&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=1E3A8A&radius=8" width="85%" />
 </div>
 
----
-
 ## 📧 Contact Me
 
 <div align="center">
@@ -70,20 +65,17 @@
 <a href="mailto:kabhins0612@gmail.com">
   <img src="https://img.shields.io/badge/Email-kabhins0612%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120" />
 </a>
-
-<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/kabhin-s-4545b8339">
   <img src="https://img.shields.io/badge/LinkedIn-Kabhin%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" />
 </a>
-
-<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Kabhin0612">
   <img src="https://img.shields.io/badge/GitHub-Kabhin0612-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120" />
 </a>
-
-<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-kabhins.dev-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B1120" />
