@@ -1,12 +1,11 @@
-<!-- Top Animated Banner - Particle Grid Effect -->
+<!-- Top Animated Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=KABHIN%20S&fontAlign=50&fontAlignY=45&color=0:0B1120,50:1E3A8A,100:38BDF8&fontColor=ffffff&animation=fadeIn&fontSize=45&desc=Full%20Stack%20Developer%20%7C%20Backend%20Architect&descAlign=50&descAlignY=65&descSize=18" />
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
 
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"></picture> About Me
+# 🚀 About Me
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
@@ -32,24 +31,27 @@
 
 ---
 
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙️" width="32" height="32"></picture> Tech Stack
+# ⚙️ Tech Stack
 
 <div align="center">
   <br>
   <img src="https://skillicons.dev/icons?i=java,python,spring,flask,html,css,js,react,mongodb,mysql,postgres,git,github,docker,aws,vscode,idea,postman&perline=9" />
   <br><br>
+  
   <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot%20%7C%20Flask-18181B?style=for-the-badge&logoColor=38BDF8" />
+  
   <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20React-18181B?style=for-the-badge&logoColor=38BDF8" />
+  
   <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20MySQL%20%7C%20PostgreSQL-18181B?style=for-the-badge&logoColor=38BDF8" />
 </div>
 
 ---
 
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="32" height="32"></picture> GitHub Status
+# 📊 GitHub Status
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github&include_all_commits=true&count_private=true" width="420" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kabhin0612&show_icons=true&theme=dark&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github&include_all_commits=true&count_private=true" width="420" />
 
 </div>
 
@@ -59,7 +61,7 @@
 
 ---
 
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e7/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e7/512.gif" alt="📧" width="32" height="32"></picture> Contact Me
+# 📧 Contact Me
 
 <div align="center">
   
