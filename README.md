@@ -1,18 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=250&section=header&text=KABHINS0612&fontSize=70&fontAlignY=35&animation=twinkling&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot%20|%20React&descAlignY=55&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=250&section=header&text=Kabhin%20S&fontSize=70&fontAlignY=35&animation=twinkling&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot%20|%20React&descAlignY=55&fontColor=ffffff" />
 </div>
 
-<!-- Profile Views & Stats -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kabhin0612&label=✦+PROFILE+VIEWS+✦&color=6C63FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Kabhin0612?label=✦+FOLLOWERS+✦&style=for-the-badge&color=6C63FF" />
-  <img src="https://img.shields.io/github/stars/Kabhin0612?label=✦+STARS+✦&style=for-the-badge&color=6C63FF" />
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=650&height=70&lines=✦+Java+Full+Stack+Developer+✦;✦+Spring+Boot+%26+React+✦;✦+AI+%26+IoT+Enthusiast+✦;✦+Building+Scalable+Solutions+✦" alt="Typing SVG" />
-</p>
 
 ## ⚡ About Me
 
