@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=250&section=header&text=KABHINS0612&fontSize=70&fontAlignY=35&animation=twinkling&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot%20|%20React&descAlignY=55&fontColor=ffffff" />
 </div>
@@ -15,42 +14,51 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=650&height=70&lines=✦+Java+Full+Stack+Developer+✦;✦+Spring+Boot+%26+React+✦;✦+AI+%26+IoT+Enthusiast+✦;✦+Building+Scalable+Solutions+✦" alt="Typing SVG" />
 </p>
 
-<!-- Developer Animation -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="350" />
-</p>
-
----
-
-## ⚡ **About Me**
+## ⚡ About Me
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="15">
-    <tr>
-      <td width="60%">
-        <h3>👋 Hi, I'm Kabhin S</h3>
-        <p align="justify">
-          <strong>Aspiring Software Developer</strong> with a strong foundation in <strong>Java Full Stack Development</strong>. 
-          I specialize in building scalable, user-friendly applications using <strong>Spring Boot</strong> and <strong>React</strong>.
-          Passionate about bridging the gap between <strong>AI</strong> and <strong>IoT</strong> to create innovative solutions.
-          I'm a quick learner who thrives on challenges and continuously seeks to improve my craft.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/📍-Karur,_Tamil_Nadu-6C63FF?style=flat-square" />
-          <img src="https://img.shields.io/badge/🎓-B.E._ECE-00D4FF?style=flat-square" />
-          <img src="https://img.shields.io/badge/💼-Full_Stack_Developer-6C63FF?style=flat-square" />
-        </p>
-      </td>
-      <td width="40%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-3a56d9c9-fa16-4b36-9216-33201f8c0cf5.gif" width="200" />
-      </td>
-    </tr>
-  </table>
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### 👋 Hi, I'm Kabhin S
+
+**Aspiring Software Developer** with a strong foundation in **Java Full Stack Development**.
+
+I specialize in building scalable, user-friendly applications using **Spring Boot** and **React**.
+
+🚀 Passionate about **AI, IoT and Full Stack Development**
+
+💡 Always learning new technologies and solving real-world problems.
+
+📍 Karur, Tamil Nadu  
+🎓 B.E. Electronics & Communication Engineering  
+💼 Full Stack Developer
+
+<p>
+<img src="https://img.shields.io/badge/📍-Karur,_Tamil_Nadu-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎓-B.E._ECE-00D4FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/💼-Full_Stack_Developer-6C63FF?style=flat-square"/>
+</p>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="340"/>
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 🎓 **Education**
+## 🎓 Education
 
 <div align="center">
   <table>
@@ -59,13 +67,11 @@
         <img src="https://user-images.githubusercontent.com/74038190/213760757-6c0419b9-0a49-44cf-93a8-87bca6e6bf9a.gif" width="60" />
         <h3>🎓 B.E. Electronics & Communication</h3>
         <p><strong>M. Kumarasamy College of Engineering</strong><br />Karur, Tamil Nadu</p>
-        <p><strong>CGPA:</strong> 6.9</p>
       </td>
       <td align="center" width="50%" style="border-radius: 15px; background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 20px;">
         <img src="https://user-images.githubusercontent.com/74038190/213760758-7baa74aa-07be-4aa6-af56-3dacd81ef3f4.gif" width="60" />
         <h3>📚 Higher Secondary Education</h3>
         <p><strong>Bharani Park Matriculation HSS</strong><br />Karur, Tamil Nadu</p>
-        <p><strong>Percentage:</strong> 67%</p>
       </td>
     </tr>
   </table>
@@ -73,7 +79,7 @@
 
 ---
 
-## 💻 **Tech Stack**
+## 💻 Tech Stack
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" />
@@ -86,31 +92,24 @@
 
 ---
 
-## 🛠️ **Tools & Technologies**
+## 🛠️ Tools & Technologies
 
 <p align="center">
-  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <br />
-  
-  <!-- Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <br />
-  
-  <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <br />
-  
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -122,7 +121,7 @@
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 Featured Projects
 
 <div align="center">
   <table>
@@ -198,30 +197,28 @@
 </div>
 
 ---
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kabhin0612&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kabhin0612&theme=radical&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakNum=6C63FF" width="49%" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabhin0612&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Kabhin0612&theme=radical&no-frame=true&row=1&column=6&margin-w=15" width="49%" />
-  <br /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabhin0612&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=6C63FF" width="95%" />
-</div>
-
----
-
-## 🐍 **Contribution Snake Game**
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kabhin0612/Kabhin0612/output/snake.svg" alt="Snake Game Animation" />
-</div>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KABHINS0612&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=KABHINS0612&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KABHINS0612&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img height="170" src="https://github-profile-trophy.vercel.app/?username=KABHINS0612&theme=tokyonight&no-frame=true&row=2&column=3" />
+
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=KABHINS0612&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 ---
 
-## 🏅 **Certifications**
+## 🏅 Certifications
 
 <div align="center">
   <table>
@@ -238,7 +235,7 @@
 
 ---
 
-## 💼 **Soft Skills**
+## 💼 Soft Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/🧩_Problem_Solving-6C63FF?style=for-the-badge" />
@@ -251,7 +248,7 @@
 
 ---
 
-## 🌐 **Let's Connect**
+## 🌐 Let's Connect
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b0d7-a6a8b8bc8d07.gif" width="120" />
@@ -290,4 +287,3 @@
     <img src="https://img.shields.io/badge/⭐-Thanks_for_Visiting-6C63FF?style=for-the-badge" />
   </p>
 </div>
-```
