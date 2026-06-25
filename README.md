@@ -109,83 +109,85 @@ I specialize in building scalable, user-friendly applications using **Spring Boo
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center" style="border-radius: 15px; background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685e0db403a.gif" width="70" />
-        <h3>🏡 Orphanage Management System</h3>
-        <p><strong>Role:</strong> Full Stack Developer</p>
-        <p align="justify">Built a Full Stack Java Orphanage Management System using Spring Boot and React. Optimized data retrieval for orphan and donor records through Hibernate/JPA, ensuring secure, high-performance operations and streamlined administrative workflows.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql" />
-          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens" />
-          <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate" />
-        </p>
-        <p>
-          <a href="#"><img src="https://img.shields.io/badge/🔗_Repository-181717?style=for-the-badge&logo=github" /></a>
-          <a href="#"><img src="https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=vercel" /></a>
-        </p>
-      </td>
-      <td width="50%" align="center" style="border-radius: 15px; background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685e0db403a.gif" width="70" />
-        <h3>🤖 AI Attendance System</h3>
-        <p><strong>Role:</strong> Full Stack Developer</p>
-        <p align="justify">Developed a Full Stack AI Attendance System using Java 25, Spring Boot, and React. Integrated ESP32 biometric hardware with Firebase for real-time cloud synchronization and secure user authentication. Managed the complete lifecycle from IoT firmware development to RESTful API deployment.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase" />
-          <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif" />
-        </p>
-        <p>
-          <a href="#"><img src="https://img.shields.io/badge/🔗_Repository-181717?style=for-the-badge&logo=github" /></a>
-          <a href="#"><img src="https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=vercel" /></a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" style="border-radius: 15px; background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685e0db403a.gif" width="70" />
-        <h3>💤 Sleep Disorder Detection</h3>
-        <p><strong>Role:</strong> Full Stack Developer</p>
-        <p align="justify">Built a web-based Sleep Disorder Detection System using React and Flask that analyzes user health and lifestyle data with machine learning models to predict sleep apnea risk and provide basic lifestyle recommendations.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-        </p>
-        <p>
-          <a href="#"><img src="https://img.shields.io/badge/🔗_Repository-181717?style=for-the-badge&logo=github" /></a>
-          <a href="#"><img src="https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=vercel" /></a>
-        </p>
-      </td>
-      <td width="50%" align="center" style="border-radius: 15px; background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685e0db403a.gif" width="70" />
-        <h3>🚌 Bus Booking System</h3>
-        <p><strong>Role:</strong> Full Stack Developer</p>
-        <p align="justify">Architected a Full Stack Java Trip Management System using Spring Boot and React. Developed RESTful APIs for real-time scheduling and booking control, leveraging Hibernate/JPA for efficient expense data management and secure user authentication.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
-          <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate" />
-          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens" />
-        </p>
-        <p>
-          <a href="#"><img src="https://img.shields.io/badge/🔗_Repository-181717?style=for-the-badge&logo=github" /></a>
-          <a href="#"><img src="https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=vercel" /></a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+<tr>
 
----
+<td width="50%" valign="top">
+
+### 🏡 Orphanage Management System
+
+**👨‍💻 Role:** Full Stack Developer
+
+Built a Full Stack Java Orphanage Management System using Spring Boot and React. Optimized data retrieval for orphan and donor records through Hibernate/JPA, ensuring secure, high-performance operations.
+
+**Tech Stack**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Attendance System
+
+**👨‍💻 Role:** Full Stack Developer
+
+Developed a Full Stack AI Attendance System using Java, Spring Boot, React, ESP32 and Firebase with real-time cloud synchronization and secure authentication.
+
+**Tech Stack**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💤 Sleep Disorder Detection
+
+**👨‍💻 Role:** Full Stack Developer
+
+Developed a React + Flask application that predicts sleep apnea using Machine Learning and provides health recommendations.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚌 Bus Booking System
+
+**👨‍💻 Role:** Full Stack Developer
+
+Built a Spring Boot + React Bus Booking System with REST APIs, authentication, and booking management.
+
+**Tech Stack**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate)
+
+</td>
+
+</tr>
+</table>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
