@@ -126,9 +126,9 @@ Built a Full Stack Java Orphanage Management System using Spring Boot and React.
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
 
 </td>
 
@@ -166,6 +166,8 @@ Developed a React + Flask application that predicts sleep apnea using Machine Le
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
 
 </td>
 
@@ -182,7 +184,7 @@ Built a Spring Boot + React Bus Booking System with REST APIs, authentication, a
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate)
-
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
 </td>
 
 </tr>
@@ -250,14 +252,14 @@ Built a Spring Boot + React Bus Booking System with REST APIs, authentication, a
   <a href="https://linkedin.com/in/kabhin-s-4545b8339">
     <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/Kabhin0612">
+  <a href="https://github.com/KABHIN0612">
     <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="[https://your-resume-link.com" target="_blank](https://github.com/KABHINS0612/My_portfolio/blob/main/kabhin%20resume%20(new).docx)">
+  <a href="https://github.com/KABHINS0612/My_resume">
   <img src="https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=googledrive" />
 </a>
 
-<a href="[https://kabhins0612.github.io/My_portfolio/" target="_blank](https://kabhins0612.github.io/My_portfolio/)">
+<a href="https://kabhins0612.github.io/My_portfolio">
   <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=about.me" />
 </a>
 </div>
