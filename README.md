@@ -18,7 +18,7 @@
 
 I specialize in building scalable, user-friendly applications using **Spring Boot** and **React**.
 
-🚀 Passionate about **AI, IoT and Full Stack Development**
+🚀 Passionate about **Full Stack Development**
 
 💡 Always learning new technologies and solving real-world problems.
 
@@ -253,12 +253,13 @@ Built a Spring Boot + React Bus Booking System with REST APIs, authentication, a
   <a href="https://github.com/Kabhin0612">
     <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=googledrive" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=about.me" />
-  </a>
+  <a href="[https://your-resume-link.com" target="_blank](https://github.com/KABHINS0612/My_portfolio/blob/main/kabhin%20resume%20(new).docx)">
+  <img src="https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=googledrive" />
+</a>
+
+<a href="[https://kabhins0612.github.io/My_portfolio/" target="_blank](https://kabhins0612.github.io/My_portfolio/)">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=about.me" />
+</a>
 </div>
 
 ---
